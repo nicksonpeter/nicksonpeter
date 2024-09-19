@@ -1,11 +1,9 @@
 # Hi there, I'm Nickson Peter
 
-**`Software Developer`**
-
-Software Developer sharing learning journey in tech
+I'm a **`Software Developer`** sharing learning journey in tech
 🌱 I’m currently learning **Data Analysis**
 🔭 I’m currently working on **ERP System**
-💬 Ask me about **Databases, Data**
+💬 Ask me about **Databases**
 📫 Reach me through **nickrocky5200@gmail.com**
 
 ---
