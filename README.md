@@ -1,10 +1,10 @@
 # Hi there, I'm Nickson Peter
 
-I'm a **`Data Analyst`** sharing learning journey in tech
-I’m currently learning **Data Analysis**
-I’m currently working on **ERP System**
-Ask me about **Data**
-Reach me through **nickrocky5200@gmail.com**
+I'm a **`Data Analyst`** sharing learning journey in tech,
+I’m currently learning **Data Analysis**,
+I’m currently working on **ERP System**,
+Ask me about **Data**,
+Reach me through **nickrocky5200@gmail.com**.
 
 ---
 
